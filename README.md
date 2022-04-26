@@ -11,9 +11,9 @@ https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result0
 https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result01_04.html.  
 
 02 레이아웃  
-https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_type02.html   
+https://webstoryboy.github.io/portfolio_web/webstandard/02_layout/layout_type02.html   
 
-https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result02_01.html.  
-https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result02_02.html.  
-https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result02_03.html.  
-https://webstoryboy.github.io/portfolio_web/webstandard/01_layout/layout_result02_04.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/02_layout/layout_result02_01.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/02_layout/layout_result02_02.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/02_layout/layout_result02_03.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/02_layout/layout_result02_04.html.  
