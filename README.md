@@ -25,3 +25,11 @@ https://webstoryboy.github.io/portfolio_web/webstandard/03_layout/layout_result0
 https://webstoryboy.github.io/portfolio_web/webstandard/03_layout/layout_result03_02.html.  
 https://webstoryboy.github.io/portfolio_web/webstandard/03_layout/layout_result03_03.html.  
 https://webstoryboy.github.io/portfolio_web/webstandard/03_layout/layout_result03_04.html.  
+
+04 레이아웃  
+https://webstoryboy.github.io/portfolio_web/webstandard/04_layout/layout_type04.html   
+
+https://webstoryboy.github.io/portfolio_web/webstandard/04_layout/layout_result04_01.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/04_layout/layout_result04_02.html.  
+https://webstoryboy.github.io/portfolio_web/webstandard/04_layout/layout_result04_03.html.  
+
